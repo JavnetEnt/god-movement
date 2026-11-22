@@ -1,0 +1,79 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "events": "Events",
+    "sermons": "Sermons",
+    "gallery": "Gallery",
+    "prayerWall": "Prayer Wall",
+    "whoWeAre": "Who We Are",
+    "aboutBeliefs": "About & What We Believe",
+    "leadership": "Leadership & Deacon Board",
+    "planVisit": "Plan Your Visit",
+    "contact": "Contact",
+    "give": "Give"
+  },
+  "Hero": {
+    "title": "Love God. Love His Creations.",
+    "subtitle": "God Movement e.V., Gütersloh",
+    "ctaPrimary": "Plan Your Visit",
+    "ctaSecondary": "Watch Sermons"
+  },
+  "Footer": {
+    "aboutText": "God Movement e.V. is a registered non-profit religious association in Gütersloh, Germany, and the parent ministry of Resurrection Family Church.",
+    "serviceTimesTitle": "Service Times",
+    "sundayService": "Sunday Worship: 1:00 PM CET",
+    "quickLinks": "Quick Links",
+    "legalTitle": "Legal (Germany)",
+    "impressum": "Impressum (Legal Notice)",
+    "datenschutz": "Datenschutz (Privacy Policy)",
+    "rights": "All rights reserved."
+  },
+
+  "Home": {
+    "liveBadge": "Sundays at 1:00 PM CET • Gütersloh & Online",
+    "countdownLabel": "Next Sunday Worship Service Starts In",
+    "liveNowBadge": "LIVE NOW — Sunday Worship Service",
+    "liveNowSub": "Join us in person in Gütersloh or watch the live stream below.",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Mins",
+    "seconds": "Secs",
+    "watchLiveTitle": "Watch Live & Recent Services",
+    "watchLiveSub": "Can't make it to Gütersloh in person? Worship with Resurrection Family Church online.",
+    "quickAccessTitle": "Get Connected",
+    "cardVisitTitle": "Plan Your Visit",
+    "cardVisitDesc": "Service times, directions to Gütersloh, parking, and what to expect on Sunday.",
+    "cardPrayerTitle": "Prayer Wall",
+    "cardPrayerDesc": "Share a prayer request publicly or anonymously and pray with our church family.",
+    "cardSermonsTitle": "Sermon Archive",
+    "cardSermonsDesc": "Watch videos, listen to audio messages, and download study notes.",
+    "cardLeadershipTitle": "Deacon Board & Leadership",
+    "cardLeadershipDesc": "Meet Pastor Joshua Bruno and the deacons serving Resurrection Family Church.",
+    "aboutHeading": "Rooted in Gütersloh, Reaching the Nations",
+    "aboutBody": "Founded by Pastor Joshua Bruno with in-person services beginning in January 2016, God Movement e.V. is a non-profit Christian ministry and parent organization of Resurrection Family Church—dedicated to loving God and loving His creations.",
+    "aboutCta": "Read Our 13 Beliefs"
+  },
+
+  "Giving": {
+    "pageTitle": "Give & Partner With Us",
+    "pageSubtitle": "Your generosity supports God Movement Full Gospel Church in Gütersloh, local outreach, and global missions.",
+    "onlineTitle": "Online Giving via PayPal",
+    "onlineSubtitle": "Give securely using your PayPal account or debit/credit card in EUR or USD.",
+    "selectFund": "1. Select Fund / Purpose",
+    "selectCurrency": "2. Currency",
+    "selectAmount": "3. Amount",
+    "customAmount": "Custom amount",
+    "thankYouTitle": "Thank You for Your Generosity!",
+    "thankYouBody": "Your gift has been received. May God bless you abundantly.",
+    "bankTitle": "Direct Bank Transfers",
+    "bankSubtitle": "Prefer a direct wire or local transfer? Use our official association accounts below.",
+    "eurCardTitle": "Euro Account (Germany / SEPA)",
+    "ngnCardTitle": "Naira Account (Nigeria)",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "referenceHint": "Include your selected fund (e.g., Tithe, Offering) in the transfer reference.",
+    "speakerTitle": "Speaker & Ministry Invitations",
+    "speakerBody": "To invite Pastor Joshua Bruno for conferences, revivals, or ministry engagements, please write directly to our office.",
+    "speakerCta": "Send Invitation Email"
+  }
+}

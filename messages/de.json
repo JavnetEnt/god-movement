@@ -1,0 +1,79 @@
+{
+  "Navigation": {
+    "home": "Startseite",
+    "events": "Veranstaltungen",
+    "sermons": "Predigten",
+    "gallery": "Galerie",
+    "prayerWall": "Gebetswand",
+    "whoWeAre": "Über uns",
+    "aboutBeliefs": "Über uns & Glaubensbekenntnis",
+    "leadership": "Gemeindeleitung & Diakonat",
+    "planVisit": "Besuch planen",
+    "contact": "Kontakt",
+    "give": "Spenden"
+  },
+  "Hero": {
+    "title": "Liebe Gott. Liebe seine Schöpfung.",
+    "subtitle": "Resurrection Family Church — God Movement e.V., Gütersloh",
+    "ctaPrimary": "Besuch planen",
+    "ctaSecondary": "Predigten ansehen"
+  },
+  "Footer": {
+    "aboutText": "God Movement e.V. ist ein eingetragener gemeinnütziger religiöser Verein in Gütersloh, Deutschland, und der Träger der Resurrection Family Church.",
+    "serviceTimesTitle": "Gottesdienstzeiten",
+    "sundayService": "Sonntagsgottesdienst: 13:00 Uhr MEZ",
+    "quickLinks": "Schnellzugriff",
+    "legalTitle": "Rechtliches",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutzerklärung",
+    "rights": "Alle Rechte vorbehalten."
+  },
+
+  "Home": {
+    "liveBadge": "Sonntags um 13:00 Uhr MEZ • Gütersloh & Online",
+    "countdownLabel": "Nächster Sonntagsgottesdienst beginnt in",
+    "liveNowBadge": "JETZT LIVE — Sonntagsgottesdienst",
+    "liveNowSub": "Feiere vor Ort in Gütersloh mit oder verfolge den Livestream unten.",
+    "days": "Tage",
+    "hours": "Std.",
+    "minutes": "Min.",
+    "seconds": "Sek.",
+    "watchLiveTitle": "Livestream & Aktuelle Gottesdienste",
+    "watchLiveSub": "Du kannst nicht vor Ort in Gütersloh sein? Feiere online mit der Resurrection Family Church.",
+    "quickAccessTitle": "Werde Teil der Gemeinschaft",
+    "cardVisitTitle": "Besuch planen",
+    "cardVisitDesc": "Gottesdienstzeiten, Anfahrt nach Gütersloh und was dich am Sonntag erwartet.",
+    "cardPrayerTitle": "Gebetswand",
+    "cardPrayerDesc": "Teile ein Gebetsanliegen öffentlich oder anonym und bete mit unserer Gemeinde.",
+    "cardSermonsTitle": "Predigtarchiv",
+    "cardSermonsDesc": "Videos ansehen, Audiobotschaften anhören und Studiennotizen herunterladen.",
+    "cardLeadershipTitle": "Gemeindeleitung & Diakonat",
+    "cardLeadershipDesc": "Lerne Pastor Joshua Bruno und die Diakone der Resurrection Family Church kennen.",
+    "aboutHeading": "Verwurzelt in Gütersloh, offen für alle Nationen",
+    "aboutBody": "Gegründet von Pastor Joshua Bruno mit Gottesdiensten seit Januar 2016, ist God Movement e.V. ein gemeinnütziger christlicher Verein und Träger der Resurrection Family Church – mit dem Auftrag, Gott und seine Schöpfung zu lieben.",
+    "aboutCta": "Unsere 13 Glaubensgrundsätze"
+  },
+
+  "Giving": {
+    "pageTitle": "Spenden & Partnerschaft",
+    "pageSubtitle": "Deine Großzügigkeit unterstützt die Resurrection Family Church in Gütersloh, lokale Projekte und weltweite Mission.",
+    "onlineTitle": "Online spenden über PayPal",
+    "onlineSubtitle": "Spende sicher mit deinem PayPal-Konto oder per Kredit-/Debitkarte in EUR oder USD.",
+    "selectFund": "1. Verwendungszweck wählen",
+    "selectCurrency": "2. Währung",
+    "selectAmount": "3. Betrag",
+    "customAmount": "Eigener Betrag",
+    "thankYouTitle": "Vielen Dank für deine Großzügigkeit!",
+    "thankYouBody": "Deine Spende ist eingegangen. Gott segne dich reichlich.",
+    "bankTitle": "Direkte Banküberweisung",
+    "bankSubtitle": "Du möchtest lieber direkt überweisen? Nutze unsere offiziellen Vereinskonten.",
+    "eurCardTitle": "Euro-Konto (Deutschland / SEPA)",
+    "ngnCardTitle": "Naira-Konto (Nigeria)",
+    "copy": "Kopieren",
+    "copied": "Kopiert!",
+    "referenceHint": "Bitte gib deinen Verwendungszweck (z. B. Zehnter, Opfer, Mission) im Betreff an.",
+    "speakerTitle": "Einladungen für Predigtdienste",
+    "speakerBody": "Für Einladungen von Pastor Joshua Bruno zu Konferenzen oder Gottesdiensten wende dich bitte direkt an unser Büro.",
+    "speakerCta": "Einladung per E-Mail senden"
+  }
+}
