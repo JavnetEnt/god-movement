@@ -69,8 +69,8 @@ export default function PlanYourVisitPage({
               icon: MapPin,
               titleEn: 'Location',
               titleDe: 'Standort',
-              bodyEn: '33330 Gütersloh, Germany',
-              bodyDe: '33330 Gütersloh, Deutschland'
+              bodyEn: '33335 Gütersloh, Germany',
+              bodyDe: '33335 Gütersloh, Deutschland'
             },
             {
               icon: Languages,

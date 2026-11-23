@@ -6,7 +6,7 @@ export default function DatenschutzPage() {
         <section>
           <h2 className="text-lg font-semibold text-slate-900">1. Verantwortlicher / Data Controller</h2>
           <p className="mt-1">
-            God Movement e.V., 33330 Gütersloh, Germany (info@godmovement.tv).
+            God Movement e.V., 33335 Gütersloh, Germany (info@godmovement.tv).
           </p>
         </section>
         <section>

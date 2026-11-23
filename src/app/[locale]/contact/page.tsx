@@ -45,10 +45,10 @@ export default function ContactPage({
                     <strong className="block text-slate-900">
                       {locale === 'de' ? 'Adresse' : 'Address'}
                     </strong>
-                    <span>[Street & House Number]</span>
-                    <span className="block">33330 Gütersloh, Germany</span>
+                    <span>Avenwedde Bahnhof, Isselhorster Straße 248,</span>
+                    <span className="block">33335 Gütersloh, Germany</span>
                     <a
-                      href="https://maps.google.com/?q=33330+Gutersloh+Germany"
+                      href="https://maps.google.com/?q=33335+Gutersloh+Germany"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="mt-1 inline-flex items-center gap-1 text-xs font-semibold text-amber-600 hover:text-amber-700"

@@ -40,7 +40,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-2.5">
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-amber-500" />
-                <span>33330 Gütersloh, Germany</span>
+                <span>Avenwedde Bahnhof, Isselhorster Straße 248, 33335 Gütersloh, Germany</span>
               </li>
               <li className="flex items-start gap-2.5">
                 <Mail className="mt-0.5 h-4 w-4 shrink-0 text-amber-500" />

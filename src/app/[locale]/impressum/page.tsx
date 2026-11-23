@@ -9,9 +9,9 @@ export default function ImpressumPage() {
           <h2 className="text-lg font-semibold text-slate-900">Trägerverein</h2>
           <p className="mt-1">
             God Movement e.V.<br />
-            Resurrection Family Church<br />
-            [Straße und Hausnummer einfügen]<br />
-            33330 Gütersloh, Deutschland
+            Full Gospel Church<br />
+            Avenwedde Bahnhof, Isselhorster Straße 248,<br />
+            33335 Gütersloh, Deutschland
           </p>
         </section>
 

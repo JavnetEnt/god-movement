@@ -64,7 +64,7 @@ export const eventType = defineType({
       name: 'address',
       title: 'Full Address',
       type: 'string',
-      initialValue: '33330 Gütersloh, Germany'
+      initialValue: '33335 Gütersloh, Germany'
     }),
     defineField({
       name: 'isOnline',
