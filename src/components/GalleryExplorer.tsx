@@ -181,8 +181,8 @@ export default function GalleryExplorer({
           </h3>
           <p className="mx-auto mt-1 max-w-md text-sm text-slate-600">
             {locale === 'de'
-              ? 'Erstelle im Admin Studio (/studio → Gallery Album) ein Album und lade Fotos per Drag & Drop hoch.'
-              : 'Open Sanity Studio (/studio → Gallery Album) to create an album and drag-and-drop church photos.'}
+              ? 'Erstelle im Admin Studio ein Album und lade Fotos per Drag & Drop hoch.'
+              : 'Create an album and drag-and-drop church photos.'}
           </p>
         </div>
       ) : (

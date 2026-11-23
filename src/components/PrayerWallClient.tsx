@@ -332,7 +332,7 @@ export default function PrayerWallClient({
               <p className="mt-3 text-sm font-medium text-slate-700">
                 {locale === 'de'
                   ? 'Noch keine freigegebenen Gebetsanliegen in dieser Kategorie. Sei der Erste!'
-                  : 'No approved prayer requests in this category yet. Submit one on the left and approve it in /studio!'}
+                  : 'No approved prayer requests in this category yet.'}
               </p>
             </div>
           ) : (

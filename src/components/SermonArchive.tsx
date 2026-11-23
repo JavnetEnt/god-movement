@@ -180,7 +180,7 @@ export default function SermonArchive({
           <p className="text-base font-medium text-slate-600">
             {locale === 'de'
               ? 'Keine Predigten gefunden. Bitte Suchfilter anpassen oder im Studio veröffentlichen.'
-              : 'No sermons match your filters yet. Try clearing filters or publish a sermon in /studio.'}
+              : 'No sermons match your filters yet. Try clearing filters or publish a sermon in studio.'}
           </p>
         </div>
       ) : (
