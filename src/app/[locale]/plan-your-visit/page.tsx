@@ -27,14 +27,14 @@ export default function PlanYourVisitPage({
     {
       qEn: 'What should I wear?',
       qDe: 'Was soll ich anziehen?',
-      aEn: 'Come as you are! You will see everything from smart casual to traditional African attire and Sunday best—there is no strict dress code.',
+      aEn: 'Come as you are! You will see everything from smart casual to traditional African attire and Sunday best...there is no strict dress code.',
       aDe: 'Komm so, wie du bist! Bei uns findest du alles von entspannter Alltagskleidung bis hin zu festlicher oder traditioneller Kleidung – es gibt keine Kleiderordnung.'
     },
     {
       qEn: 'Are children welcome?',
       qDe: 'Sind Kinder willkommen?',
-      aEn: 'Yes! Families and children of all ages are warmly welcomed at Resurrection Family Church.',
-      aDe: 'Ja! Familien und Kinder jeden Alters sind in der Resurrection Family Church herzlich willkommen.'
+      aEn: 'Yes! Families and children of all ages are warmly welcomed at God Movement Full Gospel Church.',
+      aDe: 'Ja! Familien und Kinder jeden Alters sind in der God Movement Full Gospel Church herzlich willkommen.'
     }
   ];
 
@@ -48,8 +48,8 @@ export default function PlanYourVisitPage({
           </h1>
           <p className="mt-3 text-base text-slate-300 sm:text-lg">
             {locale === 'de'
-              ? 'Wir freuen uns darauf, dich diesen Sonntag in der Resurrection Family Church in Gütersloh willkommen zu heißen.'
-              : 'We would love to welcome you this Sunday at Resurrection Family Church in Gütersloh.'}
+              ? 'Wir freuen uns darauf, dich diesen Sonntag in der God Movement Full Gospel Church in Gütersloh willkommen zu heißen.'
+              : 'We would love to welcome you this Sunday at God Movement Full Gospel Church in Gütersloh.'}
           </p>
         </div>
       </section>
