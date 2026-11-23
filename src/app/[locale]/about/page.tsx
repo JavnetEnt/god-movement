@@ -157,8 +157,8 @@ export default function AboutPage({
           </h2>
           <p className="mt-4 text-base leading-relaxed text-slate-600">
             {locale === 'de'
-              ? 'God Movement e.V. ist ein eingetragener, gemeinnütziger religiöser Verein mit Sitz in Gütersloh, Deutschland, und die Dachorganisation der Resurrection Family Church. Gegründet von Pastor Joshua Bruno (General Overseer), begannen unsere Präsenzgottesdienste am 17. Januar 2016 mit der klaren Berufung: Gott zu lieben und seine Schöpfung zu lieben.'
-              : 'God Movement e.V. is a registered non-profit religious association based in Gütersloh, Germany, and the parent ministry of Resurrection Family Church. Founded by Pastor Joshua Bruno (General Overseer), our in-person worship services began on 17 January 2016 with a simple, enduring mandate: Love God and Love His Creations.'}
+              ? 'God Movement e.V. ist ein eingetragener gemeinnütziger Religionsverein mit Sitz in Gütersloh, Deutschland, und die Muttergemeinde der Resurrection Family Church. Gegründet von Pastor Joshua Bruno (General Overseer), begannen unsere Präsenzgottesdienste am 17. Januar 2016 mit einem klaren, bleibenden Auftrag: Gott den Menschen zu offenbaren.'
+              : 'God Movement e.V. is a registered non-profit religious association based in Gütersloh, Germany, and the parent ministry of Resurrection Family Church. Founded by Pastor Joshua Bruno (General Overseer), our in-person worship services began on 17 January 2016 with a simple, enduring mandate: Revealing God to Mankind.'}
           </p>
         </section>
 
