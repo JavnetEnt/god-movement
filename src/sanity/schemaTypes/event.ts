@@ -58,7 +58,7 @@ export const eventType = defineType({
       name: 'locationName',
       title: 'Venue / Location Name',
       type: 'string',
-      initialValue: 'Resurrection Family Church — Gütersloh'
+      initialValue: 'God Movement Full Gospel Church — Gütersloh'
     }),
     defineField({
       name: 'address',

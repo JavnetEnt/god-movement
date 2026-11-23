@@ -92,7 +92,7 @@ export default function EventsExplorer({
             titleDe: 'Inspiration & Therapie',
             timeEn: 'Midweek Gathering',
             timeDe: 'Wochenmitte-Treffen',
-            place: 'Resurrection Family Church'
+            place: 'God Movement Full Gospel Church'
           },
           {
             titleEn: 'Breakthrough & Solution Hour',

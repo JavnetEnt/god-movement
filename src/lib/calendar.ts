@@ -22,7 +22,7 @@ export function downloadIcsFile(event: CalendarEventInput) {
   const icsContent = [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
-    'PRODID:-//God Movement e.V.//Resurrection Family Church//EN',
+    'PRODID:-//God Movement e.V.//Full Gospel Church//EN',
     'CALSCALE:GREGORIAN',
     'BEGIN:VEVENT',
     `UID:${now}-${Math.random().toString(36).substring(2, 9)}@godmovement.tv`,

@@ -35,7 +35,7 @@ export default function ContactPage({
                 God Movement e.V.
               </h2>
               <p className="text-xs font-medium text-amber-600">
-                Resurrection Family Church
+                Full Gospel Church
               </p>
 
               <ul className="mt-6 space-y-4 text-sm text-slate-700">

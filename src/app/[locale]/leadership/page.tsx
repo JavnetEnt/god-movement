@@ -52,9 +52,9 @@ export default async function LeadershipPage({
             roleEn: 'Founding Pastor & General Overseer',
             roleDe: 'Gründungspastor & General Overseer',
             bioEn:
-              'Pastor Joshua Bruno is the founding pastor and general overseer of God Movement e.V. and Resurrection Family Church in Gütersloh, Germany, dedicated to teaching God’s Word, raising disciples, and serving communities across Europe and Africa.',
+              'Pastor Joshua Bruno is the founding pastor and general overseer of God Movement Full Gospel Church in Gütersloh, Germany, dedicated to teaching God’s Word, raising disciples, and serving communities across Europe and Africa.',
             bioDe:
-              'Pastor Joshua Bruno ist der Gründungspastor und General Overseer von God Movement e.V. und der Resurrection Family Church in Gütersloh, Deutschland – mit dem Auftrag, Gottes Wort zu lehren, Jünger auszubilden und Menschen in Europa und Afrika zu dienen.',
+              'Pastor Joshua Bruno ist der Gründungspastor und General Overseer von God Movement Full Gospel Church in Gütersloh, Deutschland – mit dem Auftrag, Gottes Wort zu lehren, Jünger auszubilden und Menschen in Europa und Afrika zu dienen.',
             displayOrder: 1
           }
         ];
@@ -73,8 +73,8 @@ export default async function LeadershipPage({
           </h1>
           <p className="mt-3 text-base text-slate-300 sm:text-lg">
             {locale === 'de'
-              ? 'Die geistliche Leitung und der Vorstand von God Movement e.V. und der Resurrection Family Church.'
-              : 'Meet the pastoral leadership and deacon board serving God Movement e.V. and Resurrection Family Church.'}
+              ? 'Die geistliche Leitung und der Vorstand von God Movement Full Gospel Church.'
+              : 'Meet the pastoral leadership and deacon board serving God Movement Full Gospel Church.'}
           </p>
         </div>
       </section>
